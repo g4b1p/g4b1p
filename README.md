@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Gabriela Plata Ramírez
+# 👋 ¡Holi! Soy Gabriela Plata Ramírez
 
 Estudiante de la E.T. N°26 "Confederación Suiza" en la especialidad de Computación, con una profunda pasión por el desarrollo web y el diseño. 
 
