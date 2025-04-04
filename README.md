@@ -1,6 +1,6 @@
 # 👋 ¡Holi! Soy Gabriela Plata Ramírez
 
-Estudiante de la E.T. N°26 "Confederación Suiza" en la especialidad de Computación, con una profunda pasión por el desarrollo y diseño web. 
+Estudiante de la E.T. N°26 "Confederación Suiza" en la especialidad de Computación, con una gran pasión por el desarrollo web, el diseño y el marketing digital. Me encanta crear, organizar y hacer que los proyectos cobren vida, ya sea de manera individual o en equipo.
 
 Contactame por:
 
